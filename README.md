@@ -1,0 +1,3 @@
+# kawaytemplate
+Zip
+unzip bego
